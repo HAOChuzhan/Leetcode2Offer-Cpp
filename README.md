@@ -1,5 +1,10 @@
 # 《剑指offer》-第2版-C++
-这是我在刷剑指offer过程中，记录下自己写的解题方法！希望自己在上研究生前能够熟练各种算法题型，大家都有光明的未来奥里给！冲
+
+This is my brush in the process of recording their own written solution! I hope I can be proficient in various algorithm in the master stage, and we all have a bright future! Ori!rush
+
+Welcome everyone to propose your own ideas and suggestions in Issues, and we can discuss about new solutions each other !
+
+这是我在刷剑指offer过程中，记录下自己写的解题方法！希望自己能在硕士阶段熟练各种算法题型，大家都有光明的未来奥里给！冲
 
 欢迎大家在issues中提出自己的想法与建议，可以互相讨论问题和新的解题方法呀！
 
