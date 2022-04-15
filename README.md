@@ -1,12 +1,23 @@
-# 《剑指offer》-第2版-C++
-
-This is my brush in the process of recording their own written solution! I hope I can be proficient in various algorithm in the master stage, and we all have a bright future! Ori!rush
-
-Welcome everyone to propose your own ideas and suggestions in Issues, and we can discuss about new solutions each other !
-
-这是我在刷剑指offer过程中，记录下自己写的解题方法！希望自己能在硕士阶段熟练各种算法题型，大家都有光明的未来奥里给！冲
+这是我在刷题过程中，记录下自己写的解题方法！然后总结的一些自己觉得比较重要的系列方法。希望自己能在硕士阶段熟练各种算法题型，大家都有光明的未来奥里给！冲
 
 欢迎大家在issues中提出自己的想法与建议，可以互相讨论问题和新的解题方法呀！
+
+## 题型总结 - C++
+
+1. [【C++】排序算法大总结_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/115266513)
+2. [【C++】数字的组合排列情况_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/122642088)
+3. [【C++】归并排序的理解-剑指offer51：计数数组中的逆序对和148：排序链表_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/122983082)
+4. [【C++】快速幂的递归和迭代实现及LeetCode加速代码_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123000215)
+5. [【C++】priority_queue的理解及实战解决k路归并问题_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123047630) 
+6. [【C++】二叉树中路径系列问题_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123373181)
+7. [【C++】单调栈解法的相关题目_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123425039)
+8. [【C++】前缀和方法系列问题求解_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123546174)
+9. [【C++】动态规划-求解最长公共子序列等系列问题_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/123654815)
+10. [【C++】字符串子串的系列问题_郝同学的博客-CSDN博客](https://blog.csdn.net/qq_42346574/article/details/124181244)
+
+
+
+## 剑指offer - 第2版 - C++
 
 大致对该书中的所有题目进行分类,如下所示,大家可以根据类型按部就班的刷题!
 
@@ -97,3 +108,5 @@ Welcome everyone to propose your own ideas and suggestions in Issues, and we can
 - 面试题61：扑克牌中的顺子
 - 面试题62：约瑟夫问题
 - 面试题63：股票的最大利润
+
+## 
